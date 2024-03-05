@@ -1,1 +1,1 @@
-Tests are in test/example.spec.js
+Go to tests/example.spec.js
